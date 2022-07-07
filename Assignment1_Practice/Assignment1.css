@@ -1,0 +1,99 @@
+.logo{
+    float: left;
+}
+.logo h2{
+    font-family: monospace;
+}
+.nav{
+    float: right;
+}
+.nav li
+{
+    display: inline;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: serif;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.headingText{
+    text-align: center;
+}
+.headingText p{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 15px;
+}
+.button{
+    font-size: 14px;
+    background-color: #0088ca;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+.card{
+    text-align: center;
+    height: 300px;
+    width: 250px;
+    Border:1px solid #000;
+    float: left;
+    border-radius: 5px;
+    background-color: aliceblue;
+    box-shadow: 0px 0px 10px #000;
+    margin-left: 65px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.card img{
+    padding-top: 12px;
+}
+.card p{
+    font-size: 12px;
+}
+.project{
+    text-align: center;
+}
+.project p{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 15px;
+    margin-bottom: 40px;
+}
+.picture2 img{
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+.project-btn{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.contractor{
+    text-align: left;
+    margin-bottom: 20px;
+}
+.table{
+    width: 100%;
+    text-align: center;
+    Border:1px solid #000;
+    border-radius: 5px;
+}
+.table tr{
+    border-bottom: 1px solid #000;
+}
+.table th, td {
+  font-size: 15px;
+}
+.interest{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.form{
+    margin-top: 40px;
+    margin-left: 40%;
+    margin-right: 40px;
+}
+.form label, input{
+    font-size: 14px;
+}
